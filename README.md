@@ -2,6 +2,9 @@
 ## Description
 Raja Singa is app to sync with bastillion H2 database.
 
+## Flow
+![raja singa flow](public/flow.png?raw=true "Raja Singa flow")
+
 ## Features
 1. read csv (host list)
 2. fetch host from phpipam
